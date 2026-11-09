@@ -91,8 +91,8 @@ RainCheck requires Python 3.10 or newer. Clone the repository and create a
 local environment file:
 
 ```bash
-git clone https://github.com/AikagraGupta/convene-gl-hacks.git
-cd convene-gl-hacks
+git clone https://github.com/AikagraGupta/ccst9003-raincheck.git
+cd ccst9003-raincheck
 cp .env.example .env
 ```
 
